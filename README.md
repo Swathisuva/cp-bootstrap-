@@ -27,15 +27,15 @@
     </button>
     <div class="collapse navbar-collapse" id="mynavbar">
       <ul class="navbar-nav me-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Link</a>
+       <li class="nav-item">
+          <a class="nav-link" href="https://www.apple.com/in/mac/">MAC</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Link</a>
+          <a class="nav-link" href="https://www.apple.com/in/iphone/">IPHONE</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="javascript:void(0)">Link</a>
-        </li>
+          <a class="nav-link" href="https://support.apple.com/en-in">SUPPORT</a>
+        </li> 
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="text" placeholder="Search">
