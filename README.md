@@ -27,7 +27,7 @@
     </button>
     <div class="collapse navbar-collapse" id="mynavbar">
       <ul class="navbar-nav me-auto">
-       <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" href="https://www.apple.com/in/mac/">MAC</a>
         </li>
         <li class="nav-item">
@@ -35,7 +35,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://support.apple.com/en-in">SUPPORT</a>
-        </li> 
+        </li>
       </ul>
       <form class="d-flex">
         <input class="form-control me-2" type="text" placeholder="Search">
@@ -49,31 +49,35 @@
 </div>
 <div class="mar" style="margin-left: 0%;">
   
-<img src="./img6 (1).jpg" height="300px" width="642px" >
+<img src="./img6 (1).jpg" class="mx-auto d-block img-fluid" height="500px" width="1350px" >
 </div>
 <div class="container mt-3">
   <h3>SOME OF THE NEW COLLECTIONS!!!</h3>
-  <a href="https://www.jio.com/shop/buy-iphone-8"><img src="./iphone8.jpeg" class="float-start"  width="304" height="236"></a>
+  <a href="https://www.jio.com/shop/buy-iphone-8"><img src="./iphone8.jpeg" class="foat:right rounded img-fluid"  width="304" height="236"></a>
   
 </div>
 
 
-<div class="container mt-3 bg-primary">
-  <a href="https://www.apple.com/in/shop/buy-iphone/iphone-11"><img src="./iphone11.jpg" class="float-mid"  width="304" height="236"></a> <p style="float:right;font-size: 40px; font-family: cursive;color: aliceblue;">BUY NOW</p> 
+<div class="container mt-3 ">
+  <a href="https://www.apple.com/in/shop/buy-iphone/iphone-11"><img src="./iphone11.jpg" class="rounded img-fluid"  width="304" height="236"></a>
 
-  <br>
- <a href="https://www.apple.com/in/shop/buy-iphone/iphone-12"><img src="./iphone12.jpg" class="float-start  width="304" height="236"> </a>
-  <a href="https://www.apple.com/in/shop/buy-iphone/iphone-13"><img src="./iphone13.jpg" class="float-end"  width="304" height="236"></a> 
+  
+ <a href="https://www.apple.com/in/shop/buy-iphone/iphone-12"><img src="./iphone12.jpg" class="rounded img-fluid" width="304" height="236"> </a>
+  <a href="https://www.apple.com/in/shop/buy-iphone/iphone-13"><img src="./iphone13.jpg"  class= " float:right img-fluid"  width="304" height="236" ></a> 
+  <p style="float:mid;font-size: 40px; font-family: cursive;color: blue;">BUY NOW</p> 
 </div>
-
+</div>
+</div>
+<br>
+<br>
 <div class="container">
   <h2> VISIT US!!</h2>
   <div class="panel panel-default">
     <div class="panel-body">
-      <a href="https://www.instagram.com/apple/"><img src="./instagram.jpg" height="30px" width="30px"></a>
-      <a href="https://twitter.com/Apple"><img src="./twitter.jpg" height="30px" width="30px"></a>
-      <a href="https://facebook.com/Apple"><img src="./facebook.png" height="30px" width="30px"></a>
-      <a href="https://google.com/Apple"><img src="./google.jpg" height="30px" width="30px"></a></div>
+      <a href="https://www.instagram.com/apple/"><img src="./instagram.jpg" class="img-fluid" height="30px" width="30px"></a>
+      <a href="https://twitter.com/Apple"><img src="./twitter.jpg" class="img-fluid" height="30px" width="30px"></a>
+      <a href="https://facebook.com/Apple"><img src="./facebook.png" class="img-fluid" height="30px" width="30px"></a>
+      <a href="https://google.com/Apple"><img src="./google.jpg" class="img-fluid" height="30px" width="30px"></a></div>
   </div>
 </div>
 
